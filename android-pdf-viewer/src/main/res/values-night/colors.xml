@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#121212</color>
-    <color name="colorPrimaryDark">#000000</color>
-    <color name="colorAccent">#BB86FC</color>
-
     <color name="handle_bg">#8F4D4D4D</color>
     <color name="handle_stroke">#D7545353</color>
 </resources>
